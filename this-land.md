@@ -7,12 +7,12 @@ permalink: /this-land/
 
 ### Chorus
 
-This land is your land<br>
-this land is my land<br>
-from California<br>
-to the New York island<br>
-from the redwood forests<br>
-to the gulf stream waters<br>
+This land is your land  
+this land is my land  
+from California  
+to the New York island  
+from the redwood forests  
+to the gulf stream waters  
 this land was made for you and me
 
 As I was walking...
