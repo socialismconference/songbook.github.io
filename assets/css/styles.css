@@ -1,4 +1,6 @@
-header {font-size:8px}
+header {
+  font-size:8px
+}
 .wrapper {
   width:100vw;
   max-width:600px;
@@ -17,4 +19,7 @@ section h3 {
 }
 section p {
   font-size: 1em;
+}
+@media only screen and (min-width:800px) {
+  font-size: 24px
 }
