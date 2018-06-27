@@ -1,5 +1,5 @@
-header {
-  font-size:8px
+header, footer {
+  display:none;
 }
 .wrapper {
   width:100vw;
