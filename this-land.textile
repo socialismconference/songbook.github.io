@@ -1,3 +1,8 @@
+---
+title: This Land Is Your Land
+description: Lyrics of This Land Is Your Land by Woody Guthrie
+permalink: /this-land/
+---
 h2. This Land Is Your Land
 
 h3. Chorus
