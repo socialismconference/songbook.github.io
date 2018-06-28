@@ -27,10 +27,10 @@ And this is what she'd say
 
 > ### Chorus
 
-Oh women who want to be free, well here's a tip from me
-Break out of that mold we've all been sold, you've got a fighting history.
-The fight for women's rights with the unions must union
-Like Mother Jones gotta move them bones
+Oh women who want to be free, well here's a tip from me  
+Break out of that mold we've all been sold, you've got a fighting history.  
+The fight for women's rights with the unions must union  
+Like Mother Jones gotta move them bones  
 To the front of every fight.
 
 > ### Chorus
