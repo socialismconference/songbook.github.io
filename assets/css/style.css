@@ -40,6 +40,10 @@ section p a {
   font-size: 1.2em;
   line-height: 0.9em;
 }
+section blockquote a {
+  font-size:1em;
+  line-height:1.4em
+}
 @media only screen and (min-width:800px) {
   section {
     padding: 20px;
