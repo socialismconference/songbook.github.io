@@ -12,6 +12,9 @@ header img {
 section {
   font-size: 3.8vw;
 }
+section h2, section h3, section p {
+  padding:0;
+}
 section h2 {
   font-size:2em;
 }
