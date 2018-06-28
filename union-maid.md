@@ -6,7 +6,7 @@ Modern adaptations by ??
 There once was a union maid, she never was afraid  
 Of goons and ginks and company finks and the deputy sheriffs who made the raid.  
 She went to the union hall when a meeting it was called,  
-And when the Legion boys come 'round  
+And when the Legion boys come &thinsp;'round  
 She always stood her ground.
 
 ### Chorus
