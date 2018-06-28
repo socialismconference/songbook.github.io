@@ -6,11 +6,12 @@ header img {
   width:100vw;
   max-width:800px;
   box-sizing:border-box;
-  padding: 5px;
+  padding: 0;
   margin: 0 auto;
 }
 section {
   width: 100%;
+  padding: 5px;
   font-size: 3.8vw;
 }
 section h2, section h3, section p {
