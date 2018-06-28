@@ -9,6 +9,6 @@ permalink: /
    {% for page in sorted_pages %}
     <p>
           <a href="{{ site.baseurl }}{{ page.url }}">
-            {{ post.title }}
+            {{ page.title }}
           </a>
     </p>   {% endfor %} </ul>
