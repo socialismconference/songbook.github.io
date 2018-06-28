@@ -3,6 +3,8 @@ title: Bandiera Rossa
 ---
 ## Bandiera Rossa
 
+> Some background information on this song.
+
 Avanti o popolo, alla riscossa  
 Bandiera rossa, bandiera rossa  
 Avanti o popolo, alla riscossa  
