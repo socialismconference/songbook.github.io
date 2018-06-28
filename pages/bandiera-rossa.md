@@ -1,5 +1,6 @@
 ---
 title: Bandiera Rossa
+author: Tuzzi, Carlo
 category: songs
 ---
 ## Bandiera Rossa
