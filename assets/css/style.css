@@ -1,5 +1,5 @@
 header img {
-  width:100vw;
+  width: calc(100vw - 10px);
   max-width:790px;
 }
 .wrapper {
