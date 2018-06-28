@@ -3,7 +3,8 @@ title: Bandiera Rossa
 ---
 ## Bandiera Rossa
 
-> Song of the Italian revolutionary movement. Original text by Carlo Tuzzi written in 1908.
+> Song of the Italian revolutionary movement.  
+Original text by Carlo Tuzzi written in 1908.
 
 Avanti o popolo, alla riscossa  
 Bandiera rossa, bandiera rossa  
