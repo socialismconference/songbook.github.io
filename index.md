@@ -5,7 +5,8 @@ permalink: /
 ---
 ## Songs for Socialism 2018
 
-{% for page in site.pages %}
+{% assign sortedPages = site.pages | sort: page.title %}
+{% for page in sortedPages %}
    {% if page.url == '/' %}{% else %}
    
 [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
