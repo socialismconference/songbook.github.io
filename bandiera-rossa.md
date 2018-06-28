@@ -106,3 +106,5 @@ Red flag will be triumphant
 Red flag will be triumphant  
 Red flag will be triumphant  
 Long live communism and freedom!
+
+> Taken from the translation at [Marxist Internet Archive](https://www.marxists.org/subject/art/music/lyrics/it/bandiera-rossa.htm)
