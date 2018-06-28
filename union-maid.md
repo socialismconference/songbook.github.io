@@ -1,6 +1,7 @@
 ## Union Maid
 
-by Woody Guthrie
+Words and Music by Woody Guthrie  
+Modern adaptations by ??
 
 There once was a union maid  
 who never was afraid  
