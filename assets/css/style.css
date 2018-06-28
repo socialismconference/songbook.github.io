@@ -13,6 +13,7 @@ section {
   width: 100%;
   padding: 5px;
   font-size: 3.8vw;
+  box-sizing:border-box;
 }
 section h2, section h3, section p {
   padding:0;
