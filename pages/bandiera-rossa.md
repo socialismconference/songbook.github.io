@@ -1,5 +1,6 @@
 ---
 title: Bandiera Rossa
+category: songs
 ---
 ## Bandiera Rossa
 
