@@ -1,6 +1,6 @@
 ---
 title: This Land Is Your Land
-description: Lyrics of This Land Is Your Land by Woody Guthrie
+author: Guthrie, Woody
 category: songs
 ---
 ## This Land Is Your Land
