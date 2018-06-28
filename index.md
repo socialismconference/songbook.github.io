@@ -5,8 +5,10 @@ permalink: /
 ---
 ## Songs for Socialism 2018
 
-[This Land Is Your Land](this-land)
-
-[Bandiera Rossa](bandiera-rossa)
-
-[Union Maid](union-maid)
+   {% assign sorted_pages = site.pages | sort: post.title}
+   {% for page in sorted_pages %}
+    <p>
+          <a href="{{ site.baseurl }}{{ page.url }}">
+            {{ post.title }}
+          </a>
+    </p>   {% endfor %} </ul>
