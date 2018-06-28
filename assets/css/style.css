@@ -3,7 +3,7 @@ header img {
   max-width:800px;
 }
 .wrapper {
-  width: calc(100vw - 10px);
+  width: calc(100vw - 14px);
   max-width:790px;
   box-sizing:border-box;
   padding: 0;
