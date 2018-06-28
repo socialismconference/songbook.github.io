@@ -3,7 +3,7 @@ title: Bandiera Rossa
 ---
 ## Bandiera Rossa
 
-> Some background information on this song.
+> Song of the Italian revolutionary movement. Original text by Carlo Tuzzi written in 1908.
 
 Avanti o popolo, alla riscossa  
 Bandiera rossa, bandiera rossa  
@@ -108,3 +108,5 @@ Red flag will be triumphant
 Long live communism and freedom!
 
 > Taken from the translation at [Marxist Internet Archive](https://www.marxists.org/subject/art/music/lyrics/it/bandiera-rossa.htm)
+
+> For more background information, see the [Wikipedia article](https://en.wikipedia.org/wiki/Bandiera_Rossa).
