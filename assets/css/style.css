@@ -10,6 +10,7 @@ header img {
   margin: 0 auto;
 }
 section {
+  width: 100%;
   font-size: 3.8vw;
 }
 section h2, section h3, section p {
