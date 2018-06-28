@@ -44,4 +44,4 @@ As I go walking that freedom highway;
 Nobody living can ever make me turn back  
 This land was made for you and me. 
 
-> Lyrics and more information at [The Woody Guthrie Archive](http://woodyguthrie.org/).
+> Lyrics and more information at [The Woody Guthrie Archive](http://woodyguthrie.org/Lyrics/This_Land.htm).
