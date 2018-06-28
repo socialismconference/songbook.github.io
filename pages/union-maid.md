@@ -1,5 +1,7 @@
 ---
 title: Union Maid
+author: Guthrie, Woody
+category: songs
 ---
 ## Union Maid
 
