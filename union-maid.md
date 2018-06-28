@@ -1,7 +1,7 @@
 ## Union Maid
 
 > Words and Music by Woody Guthrie  
-Modern adaptations by ??
+Final verse modernized by the multitude
 
 There once was a union maid, she never was afraid  
 Of goons and ginks and company finks and the deputy sheriffs who made the raid.  
