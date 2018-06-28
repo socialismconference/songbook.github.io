@@ -5,7 +5,7 @@ permalink: /this-land/
 ---
 ## This Land Is Your Land
 
-Words and Music by Woody Guthrie
+> Words and Music by Woody Guthrie
 
 ### Chorus
 
