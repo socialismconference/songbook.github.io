@@ -21,6 +21,7 @@ section h3 {
 }
 section p {
   font-size: 1em;
+  margin: 0 0 1.3em 0;
 }
 @media only screen and (min-width:800px) {
   section {
