@@ -1,7 +1,7 @@
 ---
 title: This Land Is Your Land
 description: Lyrics of This Land Is Your Land by Woody Guthrie
-permalink: /this-land/
+category: songs
 ---
 ## This Land Is Your Land
 
