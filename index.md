@@ -12,10 +12,10 @@ Version 3
 {% for page in sortedPages %}  
    {% if page.url == '/' %}{% else %}
      {% assign firstLetter1 = page.title | capitalize  %}
-     {% assign firstLetter = firstLetter1 | truncate: 1 %}
-     {% if firstLetter != indexLetter %}
+     {% assign firstLetter = {{firstLetter1}} | truncate: 1 %}
+     {% if {{firstLetter}} != {{indexLetter}} %}
        {% assign indexLetter1 = page.title | capitalize  %}
-       {% assign indexLetter = indexLetter1 | truncate: 1 %}
+       {% assign indexLetter = {{indexLetter1}} | truncate: 1 %}
 
 <h3 id="{{indexLetter}}"> {{ indexLetter }} </h3>
 
