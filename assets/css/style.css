@@ -22,6 +22,7 @@ header img {
   font-size: 0.7em;
   font-family: 'Courier New', Courier, mono;
   position: fixed;
+  margin-bottom: 0;
   bottom: 5px;
   right: 5px;
 }
