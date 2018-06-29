@@ -14,11 +14,14 @@ header img {
   display:block;
   width: calc(100vw - 20px);
   max-width: 780px;
-  text-align:center;
-  font-size: 0.6em;
+  text-align:left;
+  font-size: 0.7em;
+  font-family: 'Courier New', Courier, mono;
+  position: sticky;
+  top: 5px;
 }
 .alphabet a {
-  font-size: 4em;
+  font-size: 2em;
 }
 section {
   width: 100%;
