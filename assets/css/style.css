@@ -81,6 +81,6 @@ section blockquote a {
     margin:0;
   }
   .alphabet + p {
-    right: calc((50vw - 410px) - 2em);
+    left: calc((50vw - 410px) - 2em);
   }
 }
