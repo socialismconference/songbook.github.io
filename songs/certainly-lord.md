@@ -25,7 +25,7 @@ Certainly, Certainly, Certalnly, Lord
 
 * Will you fight for revolution?
 
-(after the last verse)
+(after the last verse)  
+Certainly, certainly, certainly, Lord.  
+Certainly, certainly, certainly, Lord.  
 Certainly, certainly, certainly, Lord.
-Certainly. certainly, certainly, Lord.
-Certainly, certainly, certainly, LOrd.
