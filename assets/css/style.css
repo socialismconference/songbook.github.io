@@ -26,6 +26,7 @@ header img {
   margin-bottom: 0;
   bottom: 5px;
   right: 5px;
+  overflow: visible;
 }
 .alphabet + p > a {
   text-decoration: none;
