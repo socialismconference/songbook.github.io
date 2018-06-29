@@ -3,23 +3,42 @@ title: Ain't Gonna Let Nobody Turn Me 'Round
 ---
 ## Ain't Gonna Let Nobody Turn Me 'Round
 
-Ain't gonna let nobody
-Turn me &rsquo;round
-Turn me &rsquo;round
-Ain&rsquo;t gonna let nobody
-Turn me &rsquo;round
-I'm gonna keep on walkin'
-Keep on talkin'
-Marchin' into freedom land
+>Adaptation by Albany civil rights movement activists  
+Verses vary, usually made up on the spot
 
-[Follow the above pattern for other verses such as:
-Aint gonna let (add the name a prominent segregationist or a racist public figure).
+Ain't gonna let nobody turn me &rsquo;round, turn me &rsquo;round, turn me &rsquo;round  
+Ain't gonna let nobody turn me &rsquo;round,  
+Gonna keep on a-walkin', Keep on a-talkin'  
+Marchin' up to freedom land.
 
-Ain't gonna let no jailhouse
+Ain't gonna let segregation turn me &rsquo;round, turn me &rsquo;round, turn me &rsquo;round  
+Ain't gonna let segregation turn me &rsquo;round,  
+Gonna keep on a-walkin'. Keep on a-talkin'  
+Marchin' up to freedom land.
 
-Ain't gonna let no policeman
+Ain't gonna let no jailhouse turn me &rsquo;round, turn me &rsquo;round, turn me &rsquo;round  
+Ain't gonna let no jailhouse turn me &rsquo;round,  
+Gonna keep on a-walkin'. Keep on a-talkin'  
+Marchin' up to freedom land
 
--snip-
+Ain't gonna let Rahm Emanuel turn me &rsquo;round, turn me &rsquo;round, turn me &rsquo;round  
+Ain't gonna let Rahm Emanuel turn me &rsquo;round.  
+Gonna keep on a-walkin', Keep on a-talkin'  
+March in up to freedom land.
+
+Ain't gonna let the Koch brothers turn me &rsquo;round. turn me &rsquo;round, turn me &rsquo;round  
+Ain't gonna let let the Koch brothers turn me &rsquo;round,  
+Gonna keep on a-walkin'. Keep on a-talkin'  
+Marchin' up to freedom land.
+
+Ain't gonna let union busters turn me &rsquo;round, turn me &rsquo;round, turn me &rsquo;round  
+Ain't gonna let union busters turn me &rsquo;round,  
+Gonna keep on a-walkin'. Keep on a-talkin'  
+Marchin' up to freedom land.  
+
+Ain't gonna let nobody turn me &rsquo;round, turn me &rsquo;round, turn me &rsquo;round  
+Ain't gonna let nobody turn me &rsquo;round,  
+Gonna keep on a-walkin'. Keep on a-talkin'  
+Marchin' up to freedom land.
 
 *Notice that the end of the first line allows for improvisation.
-
