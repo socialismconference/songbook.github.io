@@ -9,9 +9,9 @@ permalink: /
 {% assign indexLetter = '' %}
 {% for page in sortedPages %}  
    {% if page.url == '/' %}{% else %}
-     {% assign firstLetter = page.title | truncate: 1 %}
+     {% assign firstLetter = page.title | capitalize | truncate: 1 %}
      {% if firstLetter != indexLetter %}
-       {% assign indexLetter = firstLetter %}
+       {% assign indexLetter = page.title | capitalize | truncate: 1 %}
 
 ### {{ firstLetter }}
 
