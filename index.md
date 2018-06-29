@@ -5,7 +5,6 @@ permalink: /
 ---
 ## Songs for Socialism 2018
 
-<p class="alphabet">
 
 [A](#A)
 [B](#B)
@@ -34,7 +33,6 @@ permalink: /
 [Y](#Y)
 [Z](#Z)
 
-</p>
 
 {% assign sortedPages = site.pages | sort: page.title %}  
 {% assign indexLetter = '' %}
