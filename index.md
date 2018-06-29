@@ -4,8 +4,8 @@ description: A listing of lyrics for songs at the patio sing-along
 permalink: /
 ---
 ## Songs for Socialism 2018  
-Thursday, July 5
-9:30PM
+Thursday, July 5  
+9:30PM  
 Hotel Patio/Lawn
 
 <div class="alphabet">&nbsp;</div>
