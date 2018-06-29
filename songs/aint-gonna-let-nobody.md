@@ -1,7 +1,7 @@
 ---
-title: Ain't Gonna Let Nobody Turn Me 'Round
+title: Ain't Gonna Let Nobody Turn Me ’Round
 ---
-## Ain't Gonna Let Nobody Turn Me 'Round
+## Ain't Gonna Let Nobody Turn Me ’Round
 
 >Adaptation by Albany civil rights movement activists  
 Verses vary, usually made up on the spot
