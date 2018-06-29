@@ -42,4 +42,4 @@ I'll be ridin' right there
 You got to come on up to the front of the bus    
 I'll be ridin' right there
 
-> This song was written in response to attempts to desegregate a public swimming pool in Cairo, Illinois, after a young African-American man drowned while swimming in a local river to to the pool not allowing any African-Americans to use it.
+> This song was written in response to attempts to desegregate a public swimming pool in Cairo, Illinois, after a young African-American man drowned while swimming in a local river due to the pool not allowing any African-Americans to use it.
