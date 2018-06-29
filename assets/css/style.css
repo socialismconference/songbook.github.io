@@ -10,7 +10,7 @@ header img {
   margin: 0 auto;
   font-family: 'Roboto Condensed', sans-serif;
 }
-.alphabet {
+.alphabet + p {
   display:block;
   width: calc(100vw - 20px);
   max-width: 780px;
@@ -22,7 +22,7 @@ header img {
   letter-spacing: 0.5em;
   vertical-align:middle;
 }
-.alphabet a {
+.alphabet + p > a {
   vertical-align:middle;
   text-decoration: none;
   color: #d232a;
