@@ -11,7 +11,7 @@ permalink: /
    {% if page.url == '/' %}{% else %}
      {% assign firstLetter = page.title | truncate: 1 %}
      {% if firstLetter != indexLetter %}
-       {% indexLetter = firstLetter %}
+       {% assign indexLetter = firstLetter %}
 
 ### {{ firstLetter }}
 
