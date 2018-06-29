@@ -15,17 +15,17 @@ header img {
 }
 .alphabet + p {
   display:block;
-  width: calc(100vw - 20px);
+  width: 1.5em;
+  height:auto;
   max-width: 780px;
   text-align:left;
   font-size: 0.7em;
   font-family: 'Courier New', Courier, mono;
-  position: sticky;
-  top: 5px;
-  vertical-align:middle;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
 }
 .alphabet + p > a {
-  vertical-align:middle;
   text-decoration: none;
   color: #d232a;
   display:inline-block;
@@ -38,6 +38,7 @@ section {
   padding: 5px;
   font-size: 3.8vw;
   box-sizing:border-box;
+  position:relative;
 }
 section h2, section h3, section p {
   padding:0;
