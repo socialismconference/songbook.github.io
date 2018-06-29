@@ -10,6 +10,16 @@ header img {
   margin: 0 auto;
   font-family: 'Roboto Condensed', sans-serif;
 }
+.alphabet {
+  display:block;
+  width: calc(100vw - 20px);
+  max-width: 780px;
+  text-align:center;
+  font-size: 0.6em;
+}
+.alphabet a {
+  font-size: 4em;
+}
 section {
   width: 100%;
   padding: 5px;
