@@ -5,6 +5,7 @@ permalink: /
 ---
 ## Songs for Socialism 2018
 
+<div class="alphabet">&nbsp;</div>
 
 [A](#A)
 [B](#B)
