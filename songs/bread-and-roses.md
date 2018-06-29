@@ -17,7 +17,7 @@ Hearts starve as well as bodies, give us bread, but give us roses.
 As we come marching, marching, un-numbered women dead  
 Go crying through our singing their ancient call for bread,  
 Small art and love and beauty their trudging spirits knew  
-Yes, it is bread we. fight for, but we fight for roses, too.
+Yes, it is bread we fight for, but we fight for roses, too.
 
 As we go marching, marching, we're standing proud and tall.  
 The rising of the women means the rising of us all.  
