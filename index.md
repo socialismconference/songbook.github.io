@@ -5,7 +5,36 @@ permalink: /
 ---
 ## Songs for Socialism 2018
 
-<p class="alphabet"><a href="#A">A</a>BCD<a href="#E">E</a>FGH<a href="#I">I</a>JKLMN<a href="#O">O</a>PQRST<a href="#U">U</a>VWXYZ</p>
+<p class="alphabet">
+
+[#A](A)
+[#B](B)
+[#C](C)
+[#D](D)
+[#E](E)
+[#F](F)
+[#G](G)
+[#H](H)
+[#I](I)
+[#J](J)
+[#K](K)
+[#L](L)
+[#M](M)
+[#N](N)
+[#O](O)
+[#P](P)
+[#Q](Q)
+[#R](R)
+[#S](S)
+[#T](T)
+[#U](U)
+[#V](V)
+[#W](W)
+[#X](X)
+[#Y](Y)
+[#Z](Z)
+
+</p>
 
 {% assign sortedPages = site.pages | sort: page.title %}  
 {% assign indexLetter = '' %}
