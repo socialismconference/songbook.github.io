@@ -1,5 +1,5 @@
 ---
-title: Songs to Sing at Socialism
+title: Red Hootenanny Song Index
 description: A listing of lyrics for songs at the patio sing-along
 permalink: /
 ---
