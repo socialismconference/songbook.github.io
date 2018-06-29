@@ -17,6 +17,7 @@ header img {
   display:block;
   width: 1.5em;
   height:auto;
+  max-height:100vh;
   max-width: 780px;
   text-align:left;
   font-size: 0.7em;
