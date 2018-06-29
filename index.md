@@ -3,10 +3,14 @@ title: Red Hootenanny Song Index
 description: A listing of lyrics for songs at the patio sing-along
 permalink: /
 ---
-## Songs for Socialism 2018  
+## Songs for Socialism 2018
+
+**Raise Your Voice with Us  
 Thursday, July 5  
 9:30PM  
-Hotel Patio/Lawn
+Hotel Patio/Lawn**
+
+> Organized by the totally **UN**official S18 Red Hootenanny Committee
 
 <div class="alphabet">&nbsp;</div>
 
