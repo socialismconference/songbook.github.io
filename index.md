@@ -15,7 +15,7 @@ Version 2
      {% if firstLetter != indexLetter %}
        {% assign indexLetter = page.title | capitalize  %}
 
-<h3 id={{indexLetter}}> {{ indexLetter }} </h3>
+<h3 id="{{indexLetter}}"> {{ indexLetter }} </h3>
 
      {% endif %}
 
