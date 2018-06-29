@@ -21,8 +21,8 @@ header img {
   text-align:left;
   font-size: 0.7em;
   font-family: 'Courier New', Courier, mono;
-  position: absolute;
-  bottom: 5px;
+  position: sticky;
+  top: 5px;
   right: 5px;
 }
 .alphabet + p > a {
