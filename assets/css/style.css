@@ -24,6 +24,7 @@ header img {
   position: sticky;
   top: 5px;
   right: 5px;
+  float:right;
 }
 .alphabet + p > a {
   text-decoration: none;
