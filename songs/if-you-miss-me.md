@@ -36,7 +36,7 @@ Come on over to the city' pool
 I'll be bathin' over there
 
 If you miss me at the back of the bus, and you can't find me nowhere    
-Come on up to the front of the bus, I'll be rid in' right there    
+Come on up to the front of the bus, I'll be ridin' right there    
 I'll be ridin' right there    
 I'll be ridin' right there    
 You got to come on up to the front of the bus    
