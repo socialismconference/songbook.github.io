@@ -5,17 +5,17 @@ permalink: /
 ---
 ## Songs for Socialism 2018
 
-Version 4
+Version 5
 
 {% assign sortedPages = site.pages | sort: page.title %}  
 {% assign indexLetter = '' %}
 {% for page in sortedPages %}  
    {% if page.url == '/' %}{% else %}
      {% assign firstLetter1 = page.title | capitalize  %}
-     {% assign firstLetter = {{firstLetter1}} | truncate: 1 %}
+     {% assign firstLetter = {{firstLetter1}} | truncate: 1, "" %}
      {% if {{firstLetter}} != {{indexLetter}} %}
        {% assign indexLetter1 = page.title | capitalize  %}
-       {% assign indexLetter = {{indexLetter1}} | truncate: 1 %}
+       {% assign indexLetter = {{indexLetter1}} | truncate: 1, "" %}
 
 <h3 id="{{indexLetter}}"> {{ indexLetter }} </h3>
 
@@ -26,4 +26,4 @@ Version 4
   {%endif%}  
 {% endfor %}
 
-Version 4
+Version 5
