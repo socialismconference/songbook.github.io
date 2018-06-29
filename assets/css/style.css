@@ -10,6 +10,9 @@ header img {
   margin: 0 auto;
   font-family: 'Roboto Condensed', sans-serif;
 }
+.alphabet {
+  height:1px
+}
 .alphabet + p {
   display:block;
   width: calc(100vw - 20px);
@@ -19,13 +22,16 @@ header img {
   font-family: 'Courier New', Courier, mono;
   position: sticky;
   top: 5px;
-  letter-spacing: 0.5em;
   vertical-align:middle;
 }
 .alphabet + p > a {
   vertical-align:middle;
   text-decoration: none;
   color: #d232a;
+  display:inline-block;
+  background: #dddddd;
+  padding: 0.1em;
+  margin: 0 0.1em;
 }
 section {
   width: 100%;
