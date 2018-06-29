@@ -1,5 +1,5 @@
 ---  
-title: Bring 'Em Home  
+title: Bring ’Em Home  
 category: songs  
 ---  
 ## Bring &rsquo;Em Home
