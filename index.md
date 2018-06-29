@@ -5,6 +5,8 @@ permalink: /
 ---
 ## Songs for Socialism 2018
 
+<p class="alphabet"><a href="#A">A</a>BCD<a href="#E">E</a>FGH<a href="#I">I</a>JKLMN<a href="#O">O</a>PQRST<a href="#U">U</a>VWXYZ</p>
+
 {% assign sortedPages = site.pages | sort: page.title %}  
 {% assign indexLetter = '' %}
 {% for page in sortedPages %}  
