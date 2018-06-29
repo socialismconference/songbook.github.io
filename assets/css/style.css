@@ -78,6 +78,6 @@ section blockquote a {
     margin:0;
   }
   .alphabet + p {
-    right: calc(50vw - 380px)
+    right: calc((50vw - 390px) + 2em);
   }
 }
