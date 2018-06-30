@@ -6,6 +6,8 @@ category: songs
 
 ## Brother, Can You Spare a Dime
 
+>  lyrics by Yip Harburg, music by Jay Gorney (1931) 
+
 They used to tell me I was building a dream, And so I followed the mob,  
 When there was earth to plow, Or guns to bear, I was always there, Right on the job.  
 They used to tell me I was building a dream, with peace and glory ahead.  
@@ -37,3 +39,4 @@ Say, don't you remember?
 I'm your pal. Buddy, can you spare a dime?
 
 > These lyrics were retrieved from [protestsonglyrics.net](protestsonglyrics.net)
+> Hear [The Weavers sing it from 1961](https://www.youtube.com/watch?v=xHD28SsJfXk).
