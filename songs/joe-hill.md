@@ -7,27 +7,27 @@ category: songs
 
 > Words by Alfred Hayes, Music by Earl Robinson
 
-I dreamed I saw Joe Hill last night.  
-Alive as you or me  
-Says I, ''But Joe, you're ten years dead,"  
+I dreamed I saw Joe Hill last night,  
+Alive as you or me.  
+Says I, "But Joe, you're ten years dead,"  
 "I never died," says he.  
 "I never died," says he.
 
 "In Salt Lake, Joe," says I to him,  
 Him standing by my bed,  
-'They framed you on a murder charge,"  
+"They framed you on a murder charge,"  
 Says Joe. "But I ain't dead,"  
 Says Joe, "But I ain't dead."  
 
 "The copper bosses killed you, Joe,  
 They shot you, Joe," says I.  
-''Takes more than guns to kill a man,  
+"Takes more than guns to kill a man,"  
 Says Joe, "I didn't die,"  
 Says Joe, "I didn't die."
 
 And standing there as big as life  
 And smiling with his eyes  
-Says Joe, ''What they forgot to kill  
+Says Joe, "What they forgot to kill  
 Went on to organize,  
 Went on to organize."
 
@@ -45,6 +45,6 @@ It's there you'll find Joe Hill.
 
 I dreamed I saw Joe Hill last night.  
 Alive as you or me  
-Says I, "But Joe, you're ten years dead",  
-.. , never died," says he.  
+Says I, "But Joe, you're ten years dead."  
+"I never died," says he.  
 "I never died," says he.
