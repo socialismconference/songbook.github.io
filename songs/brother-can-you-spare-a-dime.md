@@ -41,3 +41,5 @@ I'm your pal. Buddy, can you spare a dime?
 > These lyrics were retrieved from [protestsonglyrics.net](protestsonglyrics.net).
 
 > Hear [The Weavers sing it from 1961](https://www.youtube.com/watch?v=xHD28SsJfXk).
+
+> Included here by special request of Lorraine Chavez.
