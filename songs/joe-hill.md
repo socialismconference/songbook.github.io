@@ -15,8 +15,8 @@ Says I, "But Joe, you're ten years dead,"
 
 "In Salt Lake, Joe," says I to him,  
 Him standing by my bed,  
-"They framed you on a murder charge,"  
-Says Joe. "But I ain't dead,"  
+"They framed you on a murder charge."  
+Says Joe. "But I ain't dead."  
 Says Joe, "But I ain't dead."  
 
 "The copper bosses killed you, Joe,  
@@ -43,8 +43,8 @@ Where workers strike and organize
 It's there you'll find Joe Hill.  
 It's there you'll find Joe Hill.
 
-I dreamed I saw Joe Hill last night.  
-Alive as you or me  
+I dreamed I saw Joe Hill last night,  
+Alive as you or me.  
 Says I, "But Joe, you're ten years dead."  
 "I never died," says he.  
 "I never died," says he.
