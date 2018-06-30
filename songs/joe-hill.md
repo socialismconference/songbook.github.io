@@ -9,7 +9,7 @@ category: songs
 
 I dreamed I saw Joe Hill last night,  
 Alive as you or me.  
-Says I, "But Joe, you're ten years dead,"  
+Says I, "But Joe, you're ten years dead."  
 "I never died," says he.  
 "I never died," says he.
 
