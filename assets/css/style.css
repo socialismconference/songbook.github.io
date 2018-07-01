@@ -84,3 +84,8 @@ section blockquote a {
     left: calc((50vw - 410px) - 2em);
   }
 }
+@media screen and (orientation:landscape) {
+  .alphabet + p {
+    font-size: 3.1vh
+  }
+}
