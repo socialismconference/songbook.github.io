@@ -9,8 +9,8 @@ title: Old Bolshevik’s Song, The
 When I was a lad in 1906, I joined a band of Bolsheviks.  
 I read the Manifesto and Das Kapital, and I even learned to sing the Internationale.  
 (And I even learned to sing the Internationale.)  
-And I sang that song with a ring so true, that now I, in the prisons of the Gay-Pay-Oo.  
-And I sang that song with a ring so true, that now I, in the prisons of the Gay-Pay-Oo.
+And I sang that song with a ring so true, that now I'm in the prisons of the Gay-Pay-Oo.*  
+And I sang that song with a ring so true, that now I'm in the prisons of the Gay-Pay-Oo.
 
 When Lenin and our comrades insurrection made, I found myself on the barricade,  
 On Kerensky’s troops I turned my gun, and I didn’t stop shooting till the Reds had won.  
@@ -35,5 +35,7 @@ Confess to revolution and espionage, to wrecking railroads and sabotage.
 (to wrecking railroads and sabotage.)  
 Adhere to the line of Lenin too, and you’ll end up in the prisons of the Gay-Pay-Oo.  
 Adhere to the line of Lenin too, and you’ll end up in the prisons of the Gay-Pay-Oo.
+
+> \*The "Gay-Pay-Oo" refers to the Stalinnist GPU secret police, predecessor to the KGB.
 
 > This parody song is a part of the Trotskyist tradition.
