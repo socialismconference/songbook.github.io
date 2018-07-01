@@ -36,6 +36,6 @@ Confess to revolution and espionage, to wrecking railroads and sabotage.
 Adhere to the line of Lenin too, and you’ll end up in the prisons of the Gay-Pay-Oo.  
 Adhere to the line of Lenin too, and you’ll end up in the prisons of the Gay-Pay-Oo.
 
-> \*The "Gay-Pay-Oo" refers to the Stalinnist GPU secret police, predecessor to the KGB.
+> \*The "Gay-Pay-Oo" refers to the Stalinist GPU secret police, predecessor to the KGB.
 
 > This parody song is a part of the Trotskyist tradition.
