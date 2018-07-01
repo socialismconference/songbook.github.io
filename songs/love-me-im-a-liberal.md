@@ -8,7 +8,7 @@ tags: revised
 ## Love Me, I'm a Liberal
 
 > Original by Phil Ochs  
-Revisions by Candace Cohn
+Updated by Candace Cohn
 
 I cried when they shot Medgar Evers  
 Tears ran down my spine  
