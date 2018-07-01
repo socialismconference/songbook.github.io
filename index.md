@@ -10,7 +10,7 @@ Thursday, July 5
 9:30PM  
 Hotel Patio/Lawn**
 
-> Organized by the totally **un**official S18 Red Hootenanny Committee
+> Organized by the totally **un-**official S18 Red Hootenanny Committee
 
 <div class="alphabet">&nbsp;</div>
 
