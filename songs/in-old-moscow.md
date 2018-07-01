@@ -5,6 +5,8 @@ category: songs
 
 ## In old Moscow
 
+> To the tune of Clementine
+
 In old Moscow, in the Kremlin,  
 In the fall of ‘39,  
 Sat a Russian and a Prussian  
