@@ -73,3 +73,11 @@ He’s ruined our embassies’ worth
 Oh give me imperialist Democrats  
 Who’d control all the rest of the earth  
 So love me, love me, love me, I’m a liberal
+
+Once I was young and impulsive  
+I wore every conceivable pin  
+Even went to socialist meetings  
+Learned all the old union hymns  
+But I’ve grown older and wiser  
+And that’s why I’m turning you in  
+So love me, love me, love me, I’m a liberal
