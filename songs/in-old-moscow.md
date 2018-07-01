@@ -26,7 +26,7 @@ Before the Stalin-Hitler Pact.
 
 Once a Nazi would be shot, see,  
 That was then the Party Line;  
-Now a Nazi’s hotsy-tots,  
+Now a Nazi’s hotsy-totsy,  
 Trotsky’s laying British mines.
 
 > Chorus
