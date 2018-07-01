@@ -55,4 +55,4 @@ Greater than the might of armies, multiplied a thousand-fold.
 We can bring to birth a new world from the ashes of the old  
 For the union makes us strong.
 
-> Read more about [Solidarity Forever at Wikipedia](https://en.wikipedia.org/wiki/Solidarity_Forever)
+> Read more about [Solidarity Forever at Wikipedia](https://en.wikipedia.org/wiki/Solidarity_Forever).
