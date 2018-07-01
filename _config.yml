@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Socialist Sing-along
 description: Lyrics for songs to sing together at the Socialism Conference.
 logo: /assets/img/red-hootenanny.png
+plugins:
+  - jekyll-seo-tag
