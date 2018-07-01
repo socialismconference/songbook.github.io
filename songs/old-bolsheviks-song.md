@@ -9,7 +9,7 @@ title: Old Bolshevik’s Song, The
 When I was a lad in 1906, I joined a band of Bolsheviks.  
 I read the Manifesto and Das Kapital, and I even learned to sing the Internationale.  
 (And I even learned to sing the Internationale.)  
-And I sang that song with a ring so true, that now I'm in the prisons of the Gay-Pay-Oo.*  
+And I sang that song with a ring so true, that now I'm in the prisons of the Gay-Pay-Oo.\*  
 And I sang that song with a ring so true, that now I'm in the prisons of the Gay-Pay-Oo.
 
 When Lenin and our comrades insurrection made, I found myself on the barricade,  
