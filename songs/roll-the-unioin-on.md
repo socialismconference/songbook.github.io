@@ -1,9 +1,12 @@
 ---
 title: 
 category: songs
+lyrics: Hancox, John L.
 ---
 
 ## Roll the Union On
+
+> Music and Lyrics by John L. Hancox
 
 We’re gonna roll, we’re gonna roll, we’re gonna roll the union on  
 We’re gonna roll, we’re gonna roll, we’re gonna roll the union on  
@@ -22,3 +25,5 @@ And, if gun thugs get in the way...
 And, if the cops get in the way...  
 And, if Rahm gets in the way...  
 And, if Trump gets in the way...
+
+> John L. Hancox, who wrote this song as a member of the Southern Tenant Farmers Union is the subject of the book [Sharecropper's Troubadour](https://www.goodreads.com/book/show/13721923-sharecropper-s-troubadour).
