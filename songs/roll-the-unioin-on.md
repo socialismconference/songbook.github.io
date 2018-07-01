@@ -11,7 +11,7 @@ lyrics: Handcox, John L.
 We’re gonna roll, we’re gonna roll, we’re gonna roll the union on  
 We’re gonna roll, we’re gonna roll, we’re gonna roll the union on  
 And, if the boss gets in the way  
-We’re gonna roll right over him  
+We’re gonna roll it over him  
 We’re gonna roll it over him  
 We’re gonna roll it over him  
 And, if the boss gets in the way  
@@ -28,3 +28,4 @@ And, if Trump gets in the way...
 et alia
 
 > John L. Handcox, who wrote this song as a member of the Southern Tenant Farmers Union, is the subject of the book [Sharecropper's Troubadour](https://www.goodreads.com/book/show/13721923-sharecropper-s-troubadour).
+Hear [John Handcox sing Roll the Union On](https://duckduckgo.com/?q=handcox+roll+the+union+on&t=peppermint&iax=videos&ia=videos&iai=1v_S_zsUSU4) on YouTube.
