@@ -86,6 +86,6 @@ section blockquote a {
 }
 @media screen and (orientation:landscape) {
   .alphabet + p {
-    font-size: 2vh
+    font-size: 1.9vh
   }
 }
