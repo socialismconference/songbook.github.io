@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Red Hootenanny at S'18
 description: Lyrics for songs to sing together at the Socialism Conference.
 logo: /assets/img/red-hootenanny.png
-image: /assets/img/social.jpg
+pg:image: /assets/img/social.jpg
 plugins:
   - jekyll-seo-tag
