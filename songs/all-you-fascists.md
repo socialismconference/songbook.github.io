@@ -26,11 +26,10 @@ You fascists bound to lose
 You’re bound to lose! you fascists!  
 Bound to lose
 
-People of every colour marching side by side  
+People of every color marching side by side  
 Marching across these fields where a million fascists died  
 You're bound to lose, you fascists bound to lose
 
 I'm going into this battle, and take my union gun  
 We'll end this world of slavery before this battle's won  
 You're bound to lose, you fascists bound to lose
-
