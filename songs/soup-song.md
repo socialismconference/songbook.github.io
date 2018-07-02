@@ -24,7 +24,7 @@ They give me a bowl of soup.
 
 I spent twenty year in the fact'ry.  
 I did everything I was told.  
-They said 1 was loyal and faithful.  
+They said I was loyal and faithful.  
 Now, even before I get old:
 
 > Chorus
