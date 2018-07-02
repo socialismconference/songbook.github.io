@@ -7,7 +7,7 @@ permalink: /
 **Raise Your Voice with Us  
 Thursday, July 5  
 9:30PM  
-Hotel Patio/Lawn**
+Hotel Lawn**
 
 > Organized by the totally **un-**official S18 Red Hootenanny Committee
 
