@@ -12,7 +12,7 @@ I wish I could break
 All the chains holding me  
 I wish I could say  
 All the things that I should say  
-Say 'em loud say 'em clear  
+Say ’em loud say ’em clear  
 For the whole round world to hear
 
 I wish I could share  
