@@ -17,9 +17,9 @@ I wish I had something to eat.
 
 ### Chorus
 
-Soo-oooop, soo-oooop.
-They give me a bowl of soup.
-Soo-oooop, soo-oooop.
+Soo-oooop, soo-oooop.  
+They give me a bowl of soup.  
+Soo-oooop, soo-oooop.  
 They give me a bowl of soup.
 
 I spent twenty year in the fact'ry.  
