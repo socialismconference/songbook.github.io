@@ -10,7 +10,7 @@ music: My Bonnie Lies Over the Ocean
 > Lyrics by Maurice Sugar  
 To the tune of My Bonnie Lies Over the Ocean
 
-I'm spending my nights in the flop house  
+I'm spending my nights in the flophouse  
 I'm spending my nights on the street.  
 I'm looking for work and I find none,  
 I wish I had something to eat.
