@@ -61,4 +61,4 @@ Allende's just victory,
 All the people, resolute and courageous
 Will rise up as one.
 
-> Hear [Victor Jara sing &iexcl;Venceremos!](https://duckduckgo.com/?q=venceremos&t=peppermint&iax=videos&ia=videos&iai=uGazscDbUkI).
+> Hear [&iexcl;Venceremos!](https://duckduckgo.com/?q=venceremos&t=peppermint&iax=videos&ia=videos&iai=uGazscDbUkI) on YouTube.
