@@ -11,7 +11,7 @@ Hotel Lawn**
 
 > Organized by the totally **un-**official S18 Red Hootenanny Committee
 
-<div class="alphabet">&nbsp;thinsp;</div>
+<div class="alphabet">&nbsp;&thinsp;</div>
 
 [#](#)
 [A](#A)
