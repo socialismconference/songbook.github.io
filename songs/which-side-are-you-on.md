@@ -5,7 +5,8 @@ music: traditional
 ---
 ## Which Side Are You On?
 
-> Words by Florence Reese, Music traditional
+> Music traditional  
+Based on words by Florence Reese
 
 Come all of you good workers.  
 Good news to you I'll tell  
