@@ -1,11 +1,11 @@
 ---
-title: I'm Gonna to Be an Engineer
+title: Gonna to Be an Engineer
 lyrics: Seeger, Peggy
 music: Seeger, Peggy
 category: songs
 ---
 
-## I'm Gonna Be an Engineer
+## Gonna Be an Engineer
 
 > by Peggy Seeger
 
@@ -109,3 +109,5 @@ I been a sucker ever since I was a baby
 As a daughter, as a mother, as a lover, as a dear  
 But I'll fight them as a woman, not a lady  
 I'll fight them as an engineer!
+
+> Hear [Peggy Seeger sing Gonna Be an Engineer](https://www.youtube.com/watch?v=8IGVxBb5uYk) on YouTube.
