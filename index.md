@@ -5,8 +5,7 @@ permalink: /
 ## Songs for Socialism 2018
 
 **Raise Your Voice with Us  
-Thursday, July 5  
-9:30PM  
+Thursday, July 5 at 9:30PM  
 In the lobby outside the Haymarket Books**
 
 > Organized by the totally **un-**official S18 Red Hootenanny Committee
