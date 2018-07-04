@@ -12,7 +12,7 @@ music: Hoffman, Martin
 
 The crops are all in and the peaches are rott'ning,  
 The oranges piled in their creosote dumps;  
-They're flying 'em back to the Mexican border  
+They're flying &rsquo;em back to the Mexican border  
 To pay all their money to wade back again
 
 ### Chorus
@@ -38,7 +38,7 @@ They chase us like outlaws, like rustlers, like thieves.
 
 We died in your hills, we died in your deserts,  
 We died in your valleys and died on your plains.  
-We died 'neath your trees and we died in your bushes,  
+We died &rsquo;neath your trees and we died in your bushes,  
 Both sides of the river, we died just the same.
 
 > Chorus
