@@ -22,8 +22,6 @@ Adios mis amigos, Jesus y Maria;
 You won't have your names when you ride the big airplane,  
 All they will call you will be "deportees"
 
-> Chorus
-
 My father's own father, he waded that river,  
 They took all the money he made in his life;  
 My brothers and sisters come working the fruit trees,  
