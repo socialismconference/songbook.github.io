@@ -6,7 +6,7 @@ music: Rice, Les
 year: 1948
 ---
 
-## The Banks are Made of Marble, song lyrics
+## The Banks are Made of Marble
 
 > Original music and lyrics by Les Rice
 
