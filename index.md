@@ -6,7 +6,7 @@ permalink: /
 
 **Raise Your Voice with Us  
 Thursday, July 5 at 9:30PM  
-In the lobby outside the Haymarket Books**
+In the lobby outside the Haymarket Books room**
 
 > Organized by the totally **un-**official S18 Red Hootenanny Committee
 
