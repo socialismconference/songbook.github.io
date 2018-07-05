@@ -2,7 +2,7 @@
 title: Hallelujah! I'm a Bum
 category: songs
 lyrics: McClintock, Harry
-music: McClintock, Harry
+music: Traditional Hymn "Revive Us Again"
 ---
 
 ## Hallelujah! I'm a Bum
