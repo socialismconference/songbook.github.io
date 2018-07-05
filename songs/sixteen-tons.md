@@ -21,9 +21,9 @@ Another day older and deeper in debt
 Saint Peter don't you call me, 'cause I can't go  
 I owe my soul to the company store
 
-I was born one mornin' when the sun didn't shine
-I picked up my shovel and I walked to the mine
-I loaded sixteen tons of number nine coal
+I was born one mornin' when the sun didn't shine  
+I picked up my shovel and I walked to the mine  
+I loaded sixteen tons of number nine coal  
 And the straw boss said: "Well, a-bless my soul!"
 
 > Chorus
