@@ -1,5 +1,5 @@
 ---
-title: On the Big Rock Candy Mountain
+title: Big Rock Candy Mountain, The
 category: songs
 ---
 ## Big Rock Candy Mountain
