@@ -59,4 +59,4 @@ In the lobby outside the Haymarket Books room**
   {%endif%}  
 {% endfor %}
 
-<style>h3:last-of-type {font-size:1px; color:rgba(255,255,255,0)}h3:last-of-type::before{color:#444444; font-size: 32px; content:"Don't see the song you want to sing?"}</style>
+<style>h3:last-of-type {font-size:1px; color:rgba(255,255,255,0); margin-top: 56px;}h3:last-of-type::before{color:#444444; font-size: 32px; content:"Don't see the song you want to sing?"}</style>
