@@ -8,7 +8,7 @@ category: songs
 John Brown's body lies a-mouldering in the grave; (3×)  
 His soul's marching on!
 
-## Chorus
+### Chorus
 
 Glory, glory, hallelujah! Glory, glory, hallelujah!  
 Glory, glory, hallelujah! his soul's marching on!
