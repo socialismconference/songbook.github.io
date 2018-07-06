@@ -17,9 +17,9 @@ Within its shade we'll live and die,
 Though cowards flinch and traitors sneer,  
 We'll keep the red flag flying here.
 
-Look 'round, the Frenchman loves its blaze,
-The sturdy German chants its praise,
-In Moscow's vaults its hymns are sung
+Look 'round, the Frenchman loves its blaze,  
+The sturdy German chants its praise,  
+In Moscow's vaults its hymns are sung  
 Chicago swells the surging throng.
 
 > Chorus
