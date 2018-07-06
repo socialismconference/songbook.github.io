@@ -32,9 +32,9 @@ And shouldn't widow Jones be told to keep her window shades a pulled completely 
 Well Mr. Harper couldn't be here cause he stayed too long at Kelly's Bar again  
 And if you smell Shirley Thompson's breath you'll find she's had a little nip of gin  
 And then you have the nerve to tell me, you think that as a mother I'm not fit  
-Well this is just a little Peyton Place, and you're all Harper Valley hypocrites  
-No, I wouldn't put you on because, it really did happen just this way
+Well this is just a little Peyton Place, and you're all Harper Valley hypocrites
 
+No, I wouldn't put you on because, it really did happen just this way  
 The day my momma socked it to, the Harper Valley PTA  
 The day my momma socked it to, the Harper Valley PTA
 
