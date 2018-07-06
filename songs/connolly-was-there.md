@@ -21,7 +21,7 @@ Bold, brave and undaunted; James Connolly was there.
 
 Now William Martin Murphy and his Dublin Millionaires  
 Tried bribery, corruption, hypocrisy and prayers  
-To spite the Transport Union their scats they did enlist  
+To spite the Transport Union their scabs they did enlist  
 But all their graft was shattered by a scarlet iron fist
 
 > Chorus
