@@ -2,7 +2,7 @@
 title: Red Hootenanny Song Index
 permalink: /
 ---
-## Songs for Socialism 2018
+## Songs for Socialists
 
 **Raise Your Voice**
 
