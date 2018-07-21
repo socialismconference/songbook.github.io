@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Red Hootenanny | Songs for Socialists to Sing and Celebrate
 description: Labor and movement songs for socialists to sing and celebrate
-logo: /assets/img/red-hootenanny.png
+logo: /assets/img/share.jpg
 plugins:
   - jekyll-seo-tag
 twitter:
