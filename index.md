@@ -6,7 +6,7 @@ permalink: /
 
 **Raise Your Voice**
 
-> Let's keep singing these songs (and more) for the rest of our days!
+> These labor and movement songs should be a staple of socialist education. Let's bring the music back into protest.
 
 <div class="alphabet">&nbsp;&thinsp;</div>
 
