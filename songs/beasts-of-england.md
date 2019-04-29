@@ -5,7 +5,7 @@ author: George Orwell
  
 ## Beasts of England
 
-> Orwell describes tune to this song from **Animal Farm** as being something between **La Cucaracha** and **Darling Clementine**
+> George Orwell describes the tune to this song from "Animal Farm" as being something between "La Cucaracha" and "Darling Clementine"
 
 Beasts of England! Beasts of Ireland!  
 Beasts of land and sea and skies!  
