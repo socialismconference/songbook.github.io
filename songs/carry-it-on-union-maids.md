@@ -40,5 +40,5 @@ Carry it on, carry it on!
 
 
 
-> See the closing moments and credits of the film and hear [this version of Carry It On](https://youtu.be/74gvcvXlgnM?t=47m11s).  
+> See the closing moments and credits of the film and hear [this version of Carry It On](https://youtu.be/74gvcvXlgnM?t=44m55s).  
 Watch [Union Maids](https://youtu.be/74gvcvXlgnM) in its entirety (you'll love it)!
