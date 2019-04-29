@@ -39,3 +39,7 @@ Beasts of England, seize the prizes,
 Wheat and barley, oats and hay,  
 Clover, beans and mangel wurzel  
 Shall be ours upon that day.
+
+
+Folky version [Unknown Artist](https://www.youtube.com/watch?v=v9s-5mTLtq0)
+Punk rock version by [Rejected Youth](https://www.youtube.com/watch?v=NKpc4Lmw7Bk)
