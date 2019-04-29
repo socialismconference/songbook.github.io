@@ -1,6 +1,7 @@
 ---
 title: Beasts of England
-author: George Orwell
+lyrics: George Orwell
+melody: traditional
 ---
  
 ## Beasts of England
