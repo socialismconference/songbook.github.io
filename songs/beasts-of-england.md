@@ -2,40 +2,39 @@
 title: Beasts of England
 author: George Orwell
 ---
-
+ 
 ## Beasts of England
 
 > Orwell describes tune to this song from *Animal Farm* as being somewhere between *La Cucaracha* and *Darling Clementine*
 
-Beasts of England! Beasts of Ireland! 
-Beasts of land and sea and skies! 
-Hear the hoofbeats of tomorrow! 
+Beasts of England! Beasts of Ireland!  
+Beasts of land and sea and skies!  
+Hear the hoofbeats of tomorrow!  
 See the golden future rise!
 
-How does the life of an animal pass? 
-In endless drudgery. 
-What's the first lesson an animal learns? 
-To endure its slavery. 
-How does the life of an animal end? 
+How does the life of an animal pass?  
+In endless drudgery.  
+What's the first lesson an animal learns?  
+To endure its slavery.  
+How does the life of an animal end?  
 In cruel butchery.
 
-Beasts of England! Beasts of Ireland! 
-Beasts of land and sea and skies! 
-Hear the hoofbeats of tomorrow! 
+Beasts of England! Beasts of Ireland!  
+Beasts of land and sea and skies!  
+Hear the hoofbeats of tomorrow!  
 See the golden future rise!
 
-Now the day of beasts is coming, 
-Tyrant man shall lose his throne 
-And the shining fields of England 
+Now the day of beasts is coming,  
+Tyrant man shall lose his throne  
+And the shining fields of England  
 Shall be trod by beasts alone.
 
-Pull the rings from out your noses 
-Tear the saddle from your back! 
-Bit and spur must rust forever, 
+Pull the rings from out your noses  
+Tear the saddle from your back!  
+Bit and spur must rust forever,  
 Cruel whips no more shall crack.
 
-Beasts of England, seize the prizes, 
-Wheat and barley, oats and hay, 
-Clover, beans and mangel wurzel 
+Beasts of England, seize the prizes,  
+Wheat and barley, oats and hay,  
+Clover, beans and mangel wurzel  
 Shall be ours upon that day.
-
