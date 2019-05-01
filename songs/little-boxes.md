@@ -7,7 +7,7 @@ music: Reynolds, Malvina
 
 ## Little Boxes
 
-> Notes: words and music by Malvina Reynolds; copyright 1962 Schroder Music Company, renewed 1990. Malvina and her husband were on their way from where they lived in Berkeley, through San Francisco and down the peninsula to La Honda where she was to sing at a meeting of the Friends� Committee on Legislation (not the PTA, as Pete Seeger says in the documentary about Malvina, �Love It Like a Fool�). As she drove through Daly City, she said �Bud, take the wheel. I feel a song coming on.�
+> Notes: words and music by Malvina Reynolds; copyright 1962 Schroder Music Company, renewed 1990. Malvina and her husband were on their way from where they lived in Berkeley, through San Francisco and down the peninsula to La Honda where she was to sing at a meeting of the Friends' Committee on Legislation (not the PTA, as Pete Seeger says in the documentary about Malvina, "Love It Like a Fool"). As she drove through Daly City, she said "Bud, take the wheel. I feel a song coming on."
 
 
 Little boxes on the hillside,  
