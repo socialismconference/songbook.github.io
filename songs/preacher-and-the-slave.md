@@ -13,7 +13,7 @@ lyrics: Hill, Joe
 
 Long-haired preachers come out every night  
 Try to tell you what's wrong and what's right  
-But when asked how 'bout something to eat  
+But when asked how ’bout something to eat  
 They will answer in voices so sweet
 
 ### Chorus Type #1:
