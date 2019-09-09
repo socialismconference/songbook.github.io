@@ -12,16 +12,16 @@ lyrics: Hill, Joe
 ### Verse #1:
 
 Long-haired preachers come out every night  
-to tell you what s'wrong and what s'Try right  
+Try to tell you what's wrong and what's right  
 But when asked how 'bout something to eat  
 They will answer in voices so sweet
 
-### Type Chorus #1:
+### Chorus Type #1:
 
-You will eat, and bye bye  
-In that glorious land above the sky  
+You will eat, bye and bye  
+In that glorious land above the sky (Way up high!)  
 Work and pray, live on hay  
-You'll get pie in the sky when you die
+You'll get pie in the sky when you die (That's a lie!)
 
 ### Verse #2:
 
@@ -45,7 +45,7 @@ He will cure all diseases today
 
 If you fight hard for children and wife  
 Try to get something good in this life  
-re'You a sinner and bad man, they tell  
+You're a sinner and bad man, they tell  
 When you die you will sure go to hell.
 
 > Chorus Type #1
@@ -74,7 +74,7 @@ You'll get pie in the sky when you die [That's a lie!]
 >Thus the final verse becomes:
 
 > You will eat [You will eat] bye and bye [bye and bye]  
-When you've learned how to cook and how to fry [How to fry]  
+When you've learned how to cook and how to fry [and bake a pie!]  
 Chop some wood [Chop some wood], 'twill do you good [do you good]  
 Then you'll eat in the sweet bye and bye [That's no lie]
 
