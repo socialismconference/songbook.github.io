@@ -19,8 +19,8 @@ Go crying through our singing their ancient call for bread,
 Small art and love and beauty their trudging spirits knew  
 Yes, it is bread we fight for, but we fight for roses, too.
 
-As we go marching, marching, we're standing proud and tall.  
-The rising of the women means the rising of us all.  
+As we go marching, marching, we sound the greater call.  
+For the rising of the women means the rising of us all.  
 No more the drudge and idler, ten that toil where one reposes,  
 But a sharing of life's glories, bread and roses, bread and roses.
 
