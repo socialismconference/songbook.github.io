@@ -42,5 +42,6 @@ Beasts of every land and clime
 Hearken well and spread my tidings  
 Of the golden future time
 
-Folky version [Unknown Artist](https://www.youtube.com/watch?v=v9s-5mTLtq0)
+## Videos
+Folky version by [Unknown Artist](https://www.youtube.com/watch?v=v9s-5mTLtq0)  
 Punk rock version by [Rejected Youth](https://www.youtube.com/watch?v=NKpc4Lmw7Bk)
