@@ -21,7 +21,8 @@ Shall be trod by beasts alone
 Rings shall vanish from our noses  
 And the harness from our back  
 Bit and spur shall rust forever  
-Cruel whips no more shall crack  
+Cruel whips no more shall crack
+
 Riches more than mind can picture  
 Wheat and barley, oats and hay  
 Clover, beans, and mangel-wurzels  
