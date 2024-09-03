@@ -32,7 +32,7 @@ We have tried negotiations
 And the three-man picket line,  
 Mr. Charlie didn't see us  
 And he might as well be blind.  
-Now our new ways aren't nice  ics
+Now our new ways aren't nice  
 When we deal with men of ice,  
 But if that is Freedom's price,  
 We don't mind.
