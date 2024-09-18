@@ -57,4 +57,4 @@ We don't mind.
 
 > From the album Malvina Reynolds  
 > These lyrics were copied from [protestsonglyrics.net](http://www.protestsonglyrics.net/Community_Organizing_Songs/It-Isnt-Nice.phtml)  
-> [Hear Malivna sing It Isn't Nice](https://www.youtube.com/watch?v=UvC4xq32AX8) on YouTube.
+> [Hear Malvina sing It Isn't Nice](https://www.youtube.com/watch?v=UvC4xq32AX8) on YouTube.
